@@ -1,1 +1,2 @@
-# Habit-tracker
+Abstract
+The Habit Tracker mini project is designed to help users develop and maintain positive daily habits through a simple and interactive application. The system allows users to add habits, track daily completion, and monitor progress over time. By providing a clear and organized way to manage habits, the application encourages consistency and self-discipline. This project demonstrates the basic concepts of application development, user interaction, and data storage using simple technologies, making it suitable for academic and learning purposes.
